@@ -1,0 +1,16 @@
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.exe
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.deps.json
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.runtimeconfig.json
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.runtimeconfig.dev.json
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.dll
+F:\dotnetPractice\test01\bin\Debug\net5.0\ref\test01.dll
+F:\dotnetPractice\test01\bin\Debug\net5.0\test01.pdb
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.csproj.AssemblyReference.cache
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.AssemblyInfoInputs.cache
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.AssemblyInfo.cs
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.csproj.CoreCompileInputs.cache
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.dll
+F:\dotnetPractice\test01\obj\Debug\net5.0\ref\test01.dll
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.pdb
+F:\dotnetPractice\test01\obj\Debug\net5.0\test01.genruntimeconfig.cache
